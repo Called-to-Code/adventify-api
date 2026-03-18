@@ -357,7 +357,8 @@
                 }
             ],
             "bookCode": "aa",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Acts of the Apostles (other narrator)",
@@ -722,7 +723,8 @@
                 }
             ],
             "bookCode": "aa_old",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Adventist Home",
@@ -1261,7 +1263,8 @@
                 }
             ],
             "bookCode": "ah",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "An Appeal to the Youth",
@@ -1386,7 +1389,8 @@
                 }
             ],
             "bookCode": "ay",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "A Call to Stand Apart",
@@ -1505,7 +1509,8 @@
                 }
             ],
             "bookCode": "csa",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "A Call to Medical Evangelism and Health Education",
@@ -1576,7 +1581,8 @@
                 }
             ],
             "bookCode": "cme",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Character Sketches from the Life of Daniel",
@@ -1797,7 +1803,8 @@
                 }
             ],
             "bookCode": "csld",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Child Guidance",
@@ -2240,7 +2247,8 @@
                 }
             ],
             "bookCode": "cg",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Christ in His Sanctuary",
@@ -2311,7 +2319,8 @@
                 }
             ],
             "bookCode": "cihs",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Christian Education",
@@ -2472,7 +2481,8 @@
                 }
             ],
             "bookCode": "ce",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Christian Service",
@@ -2645,7 +2655,8 @@
                 }
             ],
             "bookCode": "chs",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Christian Temperance and Bible Hygiene",
@@ -2776,7 +2787,8 @@
                 }
             ],
             "bookCode": "ctbh",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Christ's Object Lessons",
@@ -2967,7 +2979,8 @@
                 }
             ],
             "bookCode": "col",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Colporteur Ministry",
@@ -3122,7 +3135,8 @@
                 }
             ],
             "bookCode": "cm",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Confrontation",
@@ -3307,7 +3321,8 @@
                 }
             ],
             "bookCode": "con",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Counsels on Diet and Foods",
@@ -3480,7 +3495,8 @@
                 }
             ],
             "bookCode": "cd",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Counsels on Health",
@@ -5063,7 +5079,8 @@
                 }
             ],
             "bookCode": "ch",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Counsels on Sabbath-School Work",
@@ -5110,7 +5127,8 @@
                 }
             ],
             "bookCode": "csw",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Counsels to Parents, Teachers and Students",
@@ -5205,7 +5223,8 @@
                 }
             ],
             "bookCode": "ct",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Counsels to Writers and Editors",
@@ -5366,7 +5385,8 @@
                 }
             ],
             "bookCode": "cwe",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Country Living",
@@ -5431,7 +5451,8 @@
                 }
             ],
             "bookCode": "cl",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Danger in Adopting Worldly Policy in the Work of God",
@@ -5448,7 +5469,8 @@
                 }
             ],
             "bookCode": "dawp",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Desire of Ages",
@@ -5981,7 +6003,8 @@
                 }
             ],
             "bookCode": "da",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Early Writings",
@@ -6442,7 +6465,8 @@
                 }
             ],
             "bookCode": "ew",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Education",
@@ -6669,7 +6693,8 @@
                 }
             ],
             "bookCode": "ed",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Evangelism",
@@ -7682,7 +7707,8 @@
                 }
             ],
             "bookCode": "ev",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Faith and Works",
@@ -7813,7 +7839,8 @@
                 }
             ],
             "bookCode": "fw",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Fundamentals of Christian Education",
@@ -8268,7 +8295,8 @@
                 }
             ],
             "bookCode": "fe",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Gospel Workers",
@@ -8933,7 +8961,8 @@
                 }
             ],
             "bookCode": "gw",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Great Controversy",
@@ -9208,7 +9237,8 @@
                 }
             ],
             "bookCode": "gc",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Healthful Living",
@@ -9483,7 +9513,8 @@
                 }
             ],
             "bookCode": "hl",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Help in Daily Living",
@@ -9524,7 +9555,8 @@
                 }
             ],
             "bookCode": "hdl",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Historical Sketches of the Foreign Missions of the Seventh-day Adventists",
@@ -9877,7 +9909,8 @@
                 }
             ],
             "bookCode": "hsfm",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Last-Day Events",
@@ -10014,7 +10047,8 @@
                 }
             ],
             "bookCode": "lde",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Life Sketches of Ellen G. White",
@@ -10391,7 +10425,8 @@
                 }
             ],
             "bookCode": "ls",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Medical Ministry",
@@ -10522,7 +10557,8 @@
                 }
             ],
             "bookCode": "mm",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Mind, Character and Personality, Vol. 1",
@@ -10767,7 +10803,8 @@
                 }
             ],
             "bookCode": "1mcp",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Mind, Character and Personality, Vol. 2",
@@ -11096,7 +11133,8 @@
                 }
             ],
             "bookCode": "2mcp",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Ministry of Healing",
@@ -11371,7 +11409,8 @@
                 }
             ],
             "bookCode": "mh",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Patriarchs and Prophets",
@@ -11826,7 +11865,8 @@
                 }
             ],
             "bookCode": "pp",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Promises for the Last Days",
@@ -12059,7 +12099,8 @@
                 }
             ],
             "bookCode": "pld",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Prophets and Kings",
@@ -12442,7 +12483,8 @@
                 }
             ],
             "bookCode": "pk",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Prophets and Kings (other narrator)",
@@ -12825,7 +12867,8 @@
                 }
             ],
             "bookCode": "pk_old",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Redemption",
@@ -12944,7 +12987,8 @@
                 }
             ],
             "bookCode": "re",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Sanctified Life",
@@ -13027,7 +13071,8 @@
                 }
             ],
             "bookCode": "sl",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Selected Messages, Vol. 1",
@@ -13464,7 +13509,8 @@
                 }
             ],
             "bookCode": "1sm",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Selected Messages, Vol. 2",
@@ -13871,7 +13917,8 @@
                 }
             ],
             "bookCode": "2sm",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Selected Messages, Vol. 3",
@@ -14314,7 +14361,8 @@
                 }
             ],
             "bookCode": "3sm",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Sermons and Talks, Vol. 1",
@@ -14577,7 +14625,8 @@
                 }
             ],
             "bookCode": "1sat",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Sermons and Talks, Vol. 2",
@@ -14870,7 +14919,8 @@
                 }
             ],
             "bookCode": "2sat",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Seventh-Day Adventist Bible Commentary, Volume 1",
@@ -14911,7 +14961,8 @@
                 }
             ],
             "bookCode": "1bc",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Seventh-Day Adventist Bible Commentary, Volume 2",
@@ -14958,7 +15009,8 @@
                 }
             ],
             "bookCode": "2bc",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Seventh-Day Adventist Bible Commentary, Volume 3",
@@ -15023,7 +15075,8 @@
                 }
             ],
             "bookCode": "3bc",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Seventh-Day Adventist Bible Commentary, Volume 4",
@@ -15088,7 +15141,8 @@
                 }
             ],
             "bookCode": "4bc",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Seventh-Day Adventist Bible Commentary, Volume 5",
@@ -15123,7 +15177,8 @@
                 }
             ],
             "bookCode": "5bc",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Seventh-Day Adventist Bible Commentary, Volume 6",
@@ -15170,7 +15225,8 @@
                 }
             ],
             "bookCode": "6bc",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Seventh-Day Adventist Bible Commentary, Volume 7",
@@ -15271,7 +15327,8 @@
                 }
             ],
             "bookCode": "7bc",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Seventh-Day Adventist Bible Commentary, Volume 7A - Appendix",
@@ -15288,7 +15345,8 @@
                 }
             ],
             "bookCode": "7abc",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Sketches from the Life of Paul",
@@ -15491,7 +15549,8 @@
                 }
             ],
             "bookCode": "lp",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Spalding and Magan Collection",
@@ -16528,7 +16587,8 @@
                 }
             ],
             "bookCode": "spm",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Spiritual Gifts, Vol. 1",
@@ -16785,7 +16845,8 @@
                 }
             ],
             "bookCode": "1sg",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Spiritual Gifts, Vol. 2",
@@ -17018,7 +17079,8 @@
                 }
             ],
             "bookCode": "2sg",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Spiritual Gifts, Vol. 3",
@@ -17155,7 +17217,8 @@
                 }
             ],
             "bookCode": "3sg",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Spiritual Gifts, Vol. 4",
@@ -17286,7 +17349,8 @@
                 }
             ],
             "bookCode": "4asg",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Steps to Christ",
@@ -17381,7 +17445,8 @@
                 }
             ],
             "bookCode": "sc",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Story of Jesus",
@@ -17590,7 +17655,8 @@
                 }
             ],
             "bookCode": "sj",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Story of Redemption",
@@ -18003,7 +18069,8 @@
                 }
             ],
             "bookCode": "sr",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Testimonies for the Church, Vol. 1",
@@ -18740,7 +18807,8 @@
                 }
             ],
             "bookCode": "1t",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Testimonies for the Church, Vol. 2",
@@ -19261,7 +19329,8 @@
                 }
             ],
             "bookCode": "2t",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Testimonies for the Church, Vol. 3",
@@ -19836,7 +19905,8 @@
                 }
             ],
             "bookCode": "3t",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Testimonies for the Church, Vol. 4",
@@ -20411,7 +20481,8 @@
                 }
             ],
             "bookCode": "4t",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Testimonies for the Church, Vol. 5",
@@ -21172,7 +21243,8 @@
                 }
             ],
             "bookCode": "5t",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Testimonies for the Church, Vol. 6",
@@ -22077,7 +22149,8 @@
                 }
             ],
             "bookCode": "6t",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Testimonies for the Church, Vol. 7",
@@ -22760,7 +22833,8 @@
                 }
             ],
             "bookCode": "7t",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Testimonies for the Church, Vol. 8",
@@ -23923,7 +23997,8 @@
                 }
             ],
             "bookCode": "8t",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Testimonies for the Church, Vol. 9",
@@ -24738,7 +24813,8 @@
                 }
             ],
             "bookCode": "9t",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Testimonies on Sexual Behavior, Adultery and Divorce",
@@ -25013,7 +25089,8 @@
                 }
             ],
             "bookCode": "tsb",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Testimonies to Ministers",
@@ -25132,7 +25209,8 @@
                 }
             ],
             "bookCode": "tm",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Testimony Treasures, Vol. 1",
@@ -25815,7 +25893,8 @@
                 }
             ],
             "bookCode": "1tt",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Testimony Treasures, Vol. 2",
@@ -26306,7 +26385,8 @@
                 }
             ],
             "bookCode": "2tt",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Testimony Treasures, Vol. 3",
@@ -26689,7 +26769,8 @@
                 }
             ],
             "bookCode": "3tt",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "The Ellen G. White 1888 Materials",
@@ -27996,7 +28077,8 @@
                 }
             ],
             "bookCode": "1888",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "The Madison School",
@@ -28055,7 +28137,8 @@
                 }
             ],
             "bookCode": "tms",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "The Publishing Ministry",
@@ -28306,7 +28389,8 @@
                 }
             ],
             "bookCode": "pm",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "The Truth About Angels",
@@ -28455,7 +28539,8 @@
                 }
             ],
             "bookCode": "ta",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "The Voice in Speech and Song",
@@ -28916,7 +29001,8 @@
                 }
             ],
             "bookCode": "vss",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "The Youth's Instructor",
@@ -31759,7 +31845,8 @@
                 }
             ],
             "bookCode": "yi",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Thoughts From the Mount of Blessing",
@@ -31812,7 +31899,8 @@
                 }
             ],
             "bookCode": "mb",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Welfare Ministry",
@@ -32081,7 +32169,8 @@
                 }
             ],
             "bookCode": "wm",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Words of Encouragement to Self-Supporting Workers",
@@ -32116,7 +32205,8 @@
                 }
             ],
             "bookCode": "wessw",
-            "category": 1
+            "category": 1,
+            "languageCode": "en"
         },
         {
             "title": "Ye Shall Receive Power",
@@ -34323,7 +34413,8 @@
                 }
             ],
             "bookCode": "yrp",
-            "category": 3
+            "category": 3,
+            "languageCode": "en"
         },
         {
             "title": "This Day With God",
@@ -36530,7 +36621,8 @@
                 }
             ],
             "bookCode": "tdg",
-            "category": 3
+            "category": 3,
+            "languageCode": "en"
         },
         {
             "title": "That I May Know Him",
@@ -38731,7 +38823,8 @@
                 }
             ],
             "bookCode": "tmk",
-            "category": 3
+            "category": 3,
+            "languageCode": "en"
         },
         {
             "title": "Sons and Daughters of God",
@@ -40926,7 +41019,8 @@
                 }
             ],
             "bookCode": "sdg",
-            "category": 3
+            "category": 3,
+            "languageCode": "en"
         },
         {
             "title": "Reflecting Christ",
@@ -43121,7 +43215,8 @@
                 }
             ],
             "bookCode": "rc",
-            "category": 3
+            "category": 3,
+            "languageCode": "en"
         },
         {
             "title": "Our High Calling",
@@ -43486,7 +43581,8 @@
                 }
             ],
             "bookCode": "ohc",
-            "category": 3
+            "category": 3,
+            "languageCode": "en"
         },
         {
             "title": "My Life Today",
@@ -45687,7 +45783,8 @@
                 }
             ],
             "bookCode": "ml",
-            "category": 3
+            "category": 3,
+            "languageCode": "en"
         },
         {
             "title": "Maranatha",
@@ -47888,7 +47985,8 @@
                 }
             ],
             "bookCode": "ma",
-            "category": 3
+            "category": 3,
+            "languageCode": "en"
         },
         {
             "title": "Lift Him Up",
@@ -50089,7 +50187,8 @@
                 }
             ],
             "bookCode": "lhu",
-            "category": 3
+            "category": 3,
+            "languageCode": "en"
         },
         {
             "title": "In Heavenly Places",
@@ -52296,7 +52395,8 @@
                 }
             ],
             "bookCode": "hp",
-            "category": 3
+            "category": 3,
+            "languageCode": "en"
         },
         {
             "title": "Homeward Bound",
@@ -54503,7 +54603,8 @@
                 }
             ],
             "bookCode": "hb",
-            "category": 3
+            "category": 3,
+            "languageCode": "en"
         },
         {
             "title": "God's Amazing Grace",
@@ -56698,7 +56799,8 @@
                 }
             ],
             "bookCode": "ag",
-            "category": 3
+            "category": 3,
+            "languageCode": "en"
         },
         {
             "title": "From the Heart",
@@ -58899,7 +59001,8 @@
                 }
             ],
             "bookCode": "fh",
-            "category": 3
+            "category": 3,
+            "languageCode": "en"
         },
         {
             "title": "Conflict and Courage",
@@ -61094,7 +61197,8 @@
                 }
             ],
             "bookCode": "cc",
-            "category": 3
+            "category": 3,
+            "languageCode": "en"
         },
         {
             "title": "Unlikely Leaders",
@@ -61459,7 +61563,8 @@
                 }
             ],
             "bookCode": "ule",
-            "category": 7
+            "category": 7,
+            "languageCode": "en"
         },
         {
             "title": "Royalty in Ruin",
@@ -61842,7 +61947,8 @@
                 }
             ],
             "bookCode": "rr",
-            "category": 7
+            "category": 7,
+            "languageCode": "en"
         },
         {
             "title": "Humble Hero",
@@ -62381,7 +62487,8 @@
                 }
             ],
             "bookCode": "hh",
-            "category": 7
+            "category": 7,
+            "languageCode": "en"
         },
         {
             "title": "Beginning of the End",
@@ -62836,7 +62943,8 @@
                 }
             ],
             "bookCode": "be",
-            "category": 7
+            "category": 7,
+            "languageCode": "en"
         },
         {
             "title": "Christ Our Righteousness",
@@ -62925,7 +63033,8 @@
                 }
             ],
             "bookCode": "pioneers/cor",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "What Is Patriotism in the United States of America",
@@ -62942,7 +63051,8 @@
                 }
             ],
             "bookCode": "pioneers/wip",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "The Two Republics",
@@ -63133,7 +63243,8 @@
                 }
             ],
             "bookCode": "pioneers/ttr",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "The Third Angel's Message (1897)",
@@ -63216,7 +63327,8 @@
                 }
             ],
             "bookCode": "pioneers/tam1897",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "The Third Angel's Message (1895)",
@@ -63383,7 +63495,8 @@
                 }
             ],
             "bookCode": "pioneers/tam1895",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "The Third Angel's Message (1893)",
@@ -63544,7 +63657,8 @@
                 }
             ],
             "bookCode": "pioneers/tam1893",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "The Rights of the People",
@@ -63675,7 +63789,8 @@
                 }
             ],
             "bookCode": "pioneers/rop",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "The Place of the Bible in Education",
@@ -63812,7 +63927,8 @@
                 }
             ],
             "bookCode": "pioneers/tpbe",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "The Great Empires of Prophecy",
@@ -64099,7 +64215,8 @@
                 }
             ],
             "bookCode": "pioneers/gep",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "The Consecrated Way to Christian Perfection",
@@ -64218,7 +64335,8 @@
                 }
             ],
             "bookCode": "pioneers/cw",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "Studies in the Book of Galatians",
@@ -64577,7 +64695,8 @@
                 }
             ],
             "bookCode": "pioneers/sbg",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "National Sunday Law",
@@ -64630,7 +64749,8 @@
                 }
             ],
             "bookCode": "pioneers/nsl",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "Lessons on Faith",
@@ -64797,7 +64917,8 @@
                 }
             ],
             "bookCode": "pioneers/lof_ejw",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "Ecclesiastical Empire",
@@ -64970,7 +65091,8 @@
                 }
             ],
             "bookCode": "pioneers/ece",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "Guide to Christian Perfection",
@@ -65041,7 +65163,8 @@
                 }
             ],
             "bookCode": "pioneers/gcp",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "Come Out of Her My People",
@@ -65058,7 +65181,8 @@
                 }
             ],
             "bookCode": "pioneers/chmp",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "Footprints of Faith",
@@ -65147,7 +65271,8 @@
                 }
             ],
             "bookCode": "pioneers/ff",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "Studies in Christian Education",
@@ -65356,7 +65481,8 @@
                 }
             ],
             "bookCode": "pioneers/sce",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "Living Fountains or Broken Cisterns",
@@ -65475,7 +65601,8 @@
                 }
             ],
             "bookCode": "pioneers/lfbc",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "Waggoner on the Gospel of John",
@@ -65630,7 +65757,8 @@
                 }
             ],
             "bookCode": "pioneers/wgj",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "The Gospel in Creation",
@@ -65695,7 +65823,8 @@
                 }
             ],
             "bookCode": "pioneers/gosc",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "The Glad Tidings",
@@ -65748,7 +65877,8 @@
                 }
             ],
             "bookCode": "pioneers/gti",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "Studies in the Book of Hebrews",
@@ -65867,7 +65997,8 @@
                 }
             ],
             "bookCode": "pioneers/sbh",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "Everlasting Covenant",
@@ -66178,7 +66309,8 @@
                 }
             ],
             "bookCode": "pioneers/ec",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "E. J. Waggoner's Letter Read at the 1893 General Conference",
@@ -66195,7 +66327,8 @@
                 }
             ],
             "bookCode": "pioneers/Conferences/1893%20General%20Conference/E.%20J.%20Waggoner",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "Christ and His Righteousness",
@@ -66290,7 +66423,8 @@
                 }
             ],
             "bookCode": "pioneers/chr",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "Bible Studies on the Book of Romans",
@@ -66397,7 +66531,8 @@
                 }
             ],
             "bookCode": "pioneers/bsbr",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "The Autobiography of Elder Joseph Bates",
@@ -66576,7 +66711,8 @@
                 }
             ],
             "bookCode": "pioneers/ajb",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "The Sanctuary and Twenty-three Hundred Days",
@@ -66737,7 +66873,8 @@
                 }
             ],
             "bookCode": "pioneers/s23d",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "History of the Sabbath",
@@ -66916,7 +67053,8 @@
                 }
             ],
             "bookCode": "pioneers/hsfd",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "The Study of the Testimonies",
@@ -66957,7 +67095,8 @@
                 }
             ],
             "bookCode": "pioneers/Conferences/1893%20General%20Conference/J.%20N.%20Loughborough",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "The Prophetic Gift in the Gospel Church",
@@ -67046,7 +67185,8 @@
                 }
             ],
             "bookCode": "pioneers/pggc",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "The Great Second Advent Movement",
@@ -67249,7 +67389,8 @@
                 }
             ],
             "bookCode": "pioneers/gsam",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "Miracles in My Life (New recording)",
@@ -67356,7 +67497,8 @@
                 }
             ],
             "bookCode": "pioneers/mml",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "Last Day Tokens",
@@ -67439,7 +67581,8 @@
                 }
             ],
             "bookCode": "pioneers/ldt",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "Word to the Little Flock",
@@ -67534,7 +67677,8 @@
                 }
             ],
             "bookCode": "wlf",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "Life Incidents",
@@ -67881,7 +68025,8 @@
                 }
             ],
             "bookCode": "pioneers/lifin",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "A Solemn Appeal",
@@ -67982,7 +68127,8 @@
                 }
             ],
             "bookCode": "pioneers/soap",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "The Peril of the Republic of the United States of America",
@@ -68065,7 +68211,8 @@
                 }
             ],
             "bookCode": "pioneers/prus",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "The Story of the Seer of Patmos",
@@ -68274,7 +68421,8 @@
                 }
             ],
             "bookCode": "pioneers/ssp",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "The Story of Daniel the Prophet",
@@ -68411,7 +68559,8 @@
                 }
             ],
             "bookCode": "pioneers/sdp",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "The Cross and Its Shadow",
@@ -68782,7 +68931,8 @@
                 }
             ],
             "bookCode": "pioneers/cis",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "Daniel and the Revelation",
@@ -69057,7 +69207,8 @@
                 }
             ],
             "bookCode": "pioneers/dar",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "The Word Became Flesh",
@@ -69067,7 +69218,8 @@
             "description": "",
             "chapters": [],
             "bookCode": "pioneers/twbf",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "The Promise of the Spirit",
@@ -69138,7 +69290,8 @@
                 }
             ],
             "bookCode": "pioneers/Conferences/1893%20General%20Conference/W.%20W.%20Prescott/The%20Promise%20of%20the%20Holy%20Spirit",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "The Divine-Human Family",
@@ -69185,7 +69338,8 @@
                 }
             ],
             "bookCode": "pioneers/dhf",
-            "category": 4
+            "category": 4,
+            "languageCode": "en"
         },
         {
             "title": "The Third Angel's Message – 1893 (A. T. Jones)",
@@ -69346,7 +69500,8 @@
                 }
             ],
             "bookCode": "pioneers/tam1893",
-            "category": 5
+            "category": 5,
+            "languageCode": "en"
         },
         {
             "title": "The Study of the Testimonies (John Loughborough)",
@@ -69387,7 +69542,8 @@
                 }
             ],
             "bookCode": "pioneers/Conferences/1893%20General%20Conference/J.%20N.%20Loughborough",
-            "category": 5
+            "category": 5,
+            "languageCode": "en"
         },
         {
             "title": "The Relation of Third Angel's Message to Medical Missionary Work (W. H. Wakeham)",
@@ -69404,7 +69560,8 @@
                 }
             ],
             "bookCode": "pioneers/Conferences/1893%20General%20Conference/W.%20H.%20Wakeham",
-            "category": 5
+            "category": 5,
+            "languageCode": "en"
         },
         {
             "title": "The Promise of the Holy Spirit (W. W. Prescott)",
@@ -69475,7 +69632,8 @@
                 }
             ],
             "bookCode": "pioneers/Conferences/1893%20General%20Conference/W.%20W.%20Prescott/The%20Promise%20of%20the%20Holy%20Spirit",
-            "category": 5
+            "category": 5,
+            "languageCode": "en"
         },
         {
             "title": "The Missionary Work (S. N. Haskell)",
@@ -69516,7 +69674,8 @@
                 }
             ],
             "bookCode": "pioneers/Conferences/1893%20General%20Conference/S.%20N.%20Haskell/The%20Missionary%20Work",
-            "category": 5
+            "category": 5,
+            "languageCode": "en"
         },
         {
             "title": "The Mind of Christ (R. C. Porter)",
@@ -69563,7 +69722,8 @@
                 }
             ],
             "bookCode": "pioneers/Conferences/1893%20General%20Conference/R.%20C.%20Porter",
-            "category": 5
+            "category": 5,
+            "languageCode": "en"
         },
         {
             "title": "Religious Liberty (J. T. Ringgold)",
@@ -69580,7 +69740,8 @@
                 }
             ],
             "bookCode": "pioneers/Conferences/1893%20General%20Conference/J.%20T.%20Ringgold",
-            "category": 5
+            "category": 5,
+            "languageCode": "en"
         },
         {
             "title": "Religious Liberty and Persecution (A. F. Ballenger)",
@@ -69603,7 +69764,8 @@
                 }
             ],
             "bookCode": "pioneers/Conferences/1893%20General%20Conference/A.%20F.%20Ballenger",
-            "category": 5
+            "category": 5,
+            "languageCode": "en"
         },
         {
             "title": "Reasons for Encouragement (W. W. Prescott)",
@@ -69620,7 +69782,8 @@
                 }
             ],
             "bookCode": "pioneers/Conferences/1893%20General%20Conference/W.%20W.%20Prescott/Reasons%20for%20Encouragement",
-            "category": 5
+            "category": 5,
+            "languageCode": "en"
         },
         {
             "title": "O. A. Olsen's Talks",
@@ -69649,7 +69812,8 @@
                 }
             ],
             "bookCode": "pioneers/Conferences/1893%20General%20Conference/O.%20A.%20Olsen",
-            "category": 5
+            "category": 5,
+            "languageCode": "en"
         },
         {
             "title": "How to Study the Bible (S. N. Haskell)",
@@ -69774,7 +69938,8 @@
                 }
             ],
             "bookCode": "pioneers/Conferences/1893%20General%20Conference/S.%20N.%20Haskell/How%20to%20Study%20the%20Bible",
-            "category": 5
+            "category": 5,
+            "languageCode": "en"
         },
         {
             "title": "Fellowship with Christ (J. H. Durland)",
@@ -69797,7 +69962,8 @@
                 }
             ],
             "bookCode": "pioneers/Conferences/1893%20General%20Conference/J.%20H.%20Durland",
-            "category": 5
+            "category": 5,
+            "languageCode": "en"
         },
         {
             "title": "Ellen White's Letters Read at the 1893 General Conference",
@@ -69826,7 +69992,8 @@
                 }
             ],
             "bookCode": "pioneers/Conferences/1893%20General%20Conference/E.%20G.%20White",
-            "category": 5
+            "category": 5,
+            "languageCode": "en"
         },
         {
             "title": "E. J. Waggoner's Letter Read at the 1893 General Conference",
@@ -69843,7 +70010,8 @@
                 }
             ],
             "bookCode": "pioneers/Conferences/1893%20General%20Conference/E.%20J.%20Waggoner",
-            "category": 5
+            "category": 5,
+            "languageCode": "en"
         },
         {
             "title": "Christ's Ownership (R. A. Underwood)",
@@ -69890,7 +70058,8 @@
                 }
             ],
             "bookCode": "pioneers/Conferences/1893%20General%20Conference/R.%20A.%20Underwood",
-            "category": 5
+            "category": 5,
+            "languageCode": "en"
         },
         {
             "title": "1893 General Conference Sabbath Sermons",
@@ -69925,7 +70094,8 @@
                 }
             ],
             "bookCode": "pioneers/Conferences/1893%20General%20Conference/Sabbath%20Sermons",
-            "category": 5
+            "category": 5,
+            "languageCode": "en"
         },
         {
             "title": "1889 Topeka Campmeeting Sermons",
@@ -70236,7 +70406,8 @@
                 }
             ],
             "bookCode": "pioneers/Conferences/1889%20Topeka%20Campmeeting%20Sermons",
-            "category": 5
+            "category": 5,
+            "languageCode": "en"
         },
         {
             "title": "Millerite Hymns",
@@ -70319,7 +70490,8 @@
                 }
             ],
             "bookCode": "hymns/millerite",
-            "category": 6
+            "category": 6,
+            "languageCode": "en"
         },
         {
             "title": "Early Advent Singing",
@@ -70636,7 +70808,8 @@
                 }
             ],
             "bookCode": "hymns/early-advent-singing",
-            "category": 6
+            "category": 6,
+            "languageCode": "en"
         },
         {
             "title": "Lest We Forget",
@@ -70917,7 +71090,8 @@
                 }
             ],
             "bookCode": "pioneers/apl/lwf",
-            "category": 7
+            "category": 7,
+            "languageCode": "en"
         },
         {
             "title": "Ellen G. White and the Loud Cry",
@@ -70946,7 +71120,8 @@
                 }
             ],
             "bookCode": "pioneers/Modern%20Works/ewlc",
-            "category": 7
+            "category": 7,
+            "languageCode": "en"
         },
         {
             "title": "Wounded in the House of His Friends",
@@ -71053,7 +71228,8 @@
                 }
             ],
             "bookCode": "pioneers/Modern%20Works/whf",
-            "category": 7
+            "category": 7,
+            "languageCode": "en"
         },
         {
             "title": "The Return of the Latter Rain",
@@ -71172,7 +71348,8 @@
                 }
             ],
             "bookCode": "pioneers/Modern%20Works/rlr",
-            "category": 7
+            "category": 7,
+            "languageCode": "en"
         },
         {
             "title": "The Pilgrim's Progress",
@@ -71363,7 +71540,8 @@
                 }
             ],
             "bookCode": "history/James%20Wylie/tpp",
-            "category": 8
+            "category": 8,
+            "languageCode": "en"
         },
         {
             "title": "The Papacy",
@@ -71482,7 +71660,8 @@
                 }
             ],
             "bookCode": "history/James%20Wylie/tpa",
-            "category": 9
+            "category": 9,
+            "languageCode": "en"
         },
         {
             "title": "The History of the Waldenses",
@@ -71607,7 +71786,8 @@
                 }
             ],
             "bookCode": "history/James%20Wylie/how",
-            "category": 9
+            "category": 9,
+            "languageCode": "en"
         },
         {
             "title": "The History of Protestantism, Volume 1",
@@ -72368,7 +72548,8 @@
                 }
             ],
             "bookCode": "history/James%20Wylie/hopv1/Volume%201",
-            "category": 9
+            "category": 9,
+            "languageCode": "en"
         },
         {
             "title": "The History of Protestantism",
@@ -72378,7 +72559,8 @@
             "description": "",
             "chapters": [],
             "bookCode": "historical/hop",
-            "category": 9
+            "category": 9,
+            "languageCode": "en"
         }
     ],
     "authors": [
@@ -72587,6 +72769,12 @@
             "name": "Historical Works",
             "description": "Historical Protestant and church history works.",
             "imageUrl": "https://ellenwhiteaudio.org/wp-content/uploads/2020/06/James-Wylie.jpg"
+        }
+    ],
+    "languages": [
+        {
+            "code": "en",
+            "title": "English"
         }
     ]
 }
