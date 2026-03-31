@@ -1,0 +1,2040 @@
+{
+  "codes": [
+        {
+            "bookCode": "AA",
+            "bookId": "b127"
+        },
+        {
+            "bookCode": "AH",
+            "bookId": "b128"
+        },
+        {
+            "bookCode": "ApM",
+            "bookId": "b6"
+        },
+        {
+            "bookCode": "AY",
+            "bookId": "b7"
+        },
+        {
+            "bookCode": "CME",
+            "bookId": "b1"
+        },
+        {
+            "bookCode": "CSA",
+            "bookId": "b2"
+        },
+        {
+            "bookCode": "CG",
+            "bookId": "b8"
+        },
+        {
+            "bookCode": "CIHS",
+            "bookId": "b12119"
+        },
+        {
+            "bookCode": "CE",
+            "bookId": "b10"
+        },
+        {
+            "bookCode": "CET",
+            "bookId": "b11"
+        },
+        {
+            "bookCode": "ChL",
+            "bookId": "b12"
+        },
+        {
+            "bookCode": "ChS",
+            "bookId": "b13"
+        },
+        {
+            "bookCode": "CTBH",
+            "bookId": "b14"
+        },
+        {
+            "bookCode": "COL",
+            "bookId": "b15"
+        },
+        {
+            "bookCode": "COS",
+            "bookId": "b11267"
+        },
+        {
+            "bookCode": "CEv",
+            "bookId": "b806"
+        },
+        {
+            "bookCode": "CM",
+            "bookId": "b16"
+        },
+        {
+            "bookCode": "Con",
+            "bookId": "b18"
+        },
+        {
+            "bookCode": "CCh",
+            "bookId": "b19"
+        },
+        {
+            "bookCode": "CD",
+            "bookId": "b384"
+        },
+        {
+            "bookCode": "CH",
+            "bookId": "b20"
+        },
+        {
+            "bookCode": "CSW",
+            "bookId": "b21"
+        },
+        {
+            "bookCode": "CS",
+            "bookId": "b22"
+        },
+        {
+            "bookCode": "CT",
+            "bookId": "b23"
+        },
+        {
+            "bookCode": "CW",
+            "bookId": "b24"
+        },
+        {
+            "bookCode": "CL",
+            "bookId": "b25"
+        },
+        {
+            "bookCode": "DD",
+            "bookId": "b26"
+        },
+        {
+            "bookCode": "DG",
+            "bookId": "b27"
+        },
+        {
+            "bookCode": "DA",
+            "bookId": "b130"
+        },
+        {
+            "bookCode": "EW",
+            "bookId": "b28"
+        },
+        {
+            "bookCode": "Ed",
+            "bookId": "b29"
+        },
+        {
+            "bookCode": "EP",
+            "bookId": "b2772"
+        },
+        {
+            "bookCode": "Ev",
+            "bookId": "b30"
+        },
+        {
+            "bookCode": "FW",
+            "bookId": "b31"
+        },
+        {
+            "bookCode": "FE",
+            "bookId": "b32"
+        },
+        {
+            "bookCode": "GRC",
+            "bookId": "b14042"
+        },
+        {
+            "bookCode": "GW92",
+            "bookId": "b34"
+        },
+        {
+            "bookCode": "GW",
+            "bookId": "b35"
+        },
+        {
+            "bookCode": "GC88",
+            "bookId": "b133"
+        },
+        {
+            "bookCode": "GC",
+            "bookId": "b132"
+        },
+        {
+            "bookCode": "GrH_c",
+            "bookId": "b12320"
+        },
+        {
+            "bookCode": "HFM",
+            "bookId": "b387"
+        },
+        {
+            "bookCode": "HL",
+            "bookId": "b388"
+        },
+        {
+            "bookCode": "Hvn",
+            "bookId": "b36"
+        },
+        {
+            "bookCode": "HLv",
+            "bookId": "b2771"
+        },
+        {
+            "bookCode": "HDL",
+            "bookId": "b37"
+        },
+        {
+            "bookCode": "HF",
+            "bookId": "b2774"
+        },
+        {
+            "bookCode": "HS",
+            "bookId": "b389"
+        },
+        {
+            "bookCode": "IC",
+            "bookId": "b14086"
+        },
+        {
+            "bookCode": "LDE",
+            "bookId": "b39"
+        },
+        {
+            "bookCode": "LYL",
+            "bookId": "b40"
+        },
+        {
+            "bookCode": "LS80",
+            "bookId": "b42"
+        },
+        {
+            "bookCode": "LS88",
+            "bookId": "b43"
+        },
+        {
+            "bookCode": "LS",
+            "bookId": "b41"
+        },
+        {
+            "bookCode": "MC",
+            "bookId": "b45"
+        },
+        {
+            "bookCode": "MM",
+            "bookId": "b75"
+        },
+        {
+            "bookCode": "MYP",
+            "bookId": "b76"
+        },
+        {
+            "bookCode": "1MCP",
+            "bookId": "b77"
+        },
+        {
+            "bookCode": "2MCP",
+            "bookId": "b78"
+        },
+        {
+            "bookCode": "MH",
+            "bookId": "b135"
+        },
+        {
+            "bookCode": "MTC",
+            "bookId": "b12399"
+        },
+        {
+            "bookCode": "NL",
+            "bookId": "b386"
+        },
+        {
+            "bookCode": "PaM",
+            "bookId": "b83"
+        },
+        {
+            "bookCode": "PP",
+            "bookId": "b84"
+        },
+        {
+            "bookCode": "PCP",
+            "bookId": "b86"
+        },
+        {
+            "bookCode": "Pr",
+            "bookId": "b87"
+        },
+        {
+            "bookCode": "PCL",
+            "bookId": "b14222"
+        },
+        {
+            "bookCode": "PK",
+            "bookId": "b88"
+        },
+        {
+            "bookCode": "PM",
+            "bookId": "b390"
+        },
+        {
+            "bookCode": "RY",
+            "bookId": "b137"
+        },
+        {
+            "bookCode": "SL",
+            "bookId": "b138"
+        },
+        {
+            "bookCode": "1SM",
+            "bookId": "b98"
+        },
+        {
+            "bookCode": "2SM",
+            "bookId": "b99"
+        },
+        {
+            "bookCode": "3SM",
+            "bookId": "b100"
+        },
+        {
+            "bookCode": "ExV",
+            "bookId": "b3"
+        },
+        {
+            "bookCode": "ExV53",
+            "bookId": "b12557"
+        },
+        {
+            "bookCode": "ExV54",
+            "bookId": "b109"
+        },
+        {
+            "bookCode": "LP",
+            "bookId": "b101"
+        },
+        {
+            "bookCode": "SA",
+            "bookId": "b4"
+        },
+        {
+            "bookCode": "SWk",
+            "bookId": "b139"
+        },
+        {
+            "bookCode": "SpTEd",
+            "bookId": "b103"
+        },
+        {
+            "bookCode": "1SG",
+            "bookId": "b104"
+        },
+        {
+            "bookCode": "2SG",
+            "bookId": "b105"
+        },
+        {
+            "bookCode": "3SG",
+            "bookId": "b106"
+        },
+        {
+            "bookCode": "4aSG",
+            "bookId": "b107"
+        },
+        {
+            "bookCode": "4bSG",
+            "bookId": "b385"
+        },
+        {
+            "bookCode": "1SP",
+            "bookId": "b141"
+        },
+        {
+            "bookCode": "2SP",
+            "bookId": "b143"
+        },
+        {
+            "bookCode": "3SP",
+            "bookId": "b142"
+        },
+        {
+            "bookCode": "4SP",
+            "bookId": "b140"
+        },
+        {
+            "bookCode": "SS",
+            "bookId": "b2775"
+        },
+        {
+            "bookCode": "SC",
+            "bookId": "b108"
+        },
+        {
+            "bookCode": "SJ",
+            "bookId": "b144"
+        },
+        {
+            "bookCode": "SR",
+            "bookId": "b145"
+        },
+        {
+            "bookCode": "Te",
+            "bookId": "b110"
+        },
+        {
+            "bookCode": "1T",
+            "bookId": "b116"
+        },
+        {
+            "bookCode": "2T",
+            "bookId": "b120"
+        },
+        {
+            "bookCode": "3T",
+            "bookId": "b119"
+        },
+        {
+            "bookCode": "4T",
+            "bookId": "b114"
+        },
+        {
+            "bookCode": "5T",
+            "bookId": "b113"
+        },
+        {
+            "bookCode": "6T",
+            "bookId": "b118"
+        },
+        {
+            "bookCode": "7T",
+            "bookId": "b117"
+        },
+        {
+            "bookCode": "8T",
+            "bookId": "b112"
+        },
+        {
+            "bookCode": "9T",
+            "bookId": "b115"
+        },
+        {
+            "bookCode": "TSS",
+            "bookId": "b121"
+        },
+        {
+            "bookCode": "TSB",
+            "bookId": "b122"
+        },
+        {
+            "bookCode": "TM",
+            "bookId": "b123"
+        },
+        {
+            "bookCode": "TSA",
+            "bookId": "b124"
+        },
+        {
+            "bookCode": "TSDF",
+            "bookId": "b125"
+        },
+        {
+            "bookCode": "1TT",
+            "bookId": "b2005"
+        },
+        {
+            "bookCode": "2TT",
+            "bookId": "b2003"
+        },
+        {
+            "bookCode": "3TT",
+            "bookId": "b2004"
+        },
+        {
+            "bookCode": "MB",
+            "bookId": "b150"
+        },
+        {
+            "bookCode": "3AM",
+            "bookId": "b14648"
+        },
+        {
+            "bookCode": "TT",
+            "bookId": "b2769"
+        },
+        {
+            "bookCode": "TR",
+            "bookId": "b11974"
+        },
+        {
+            "bookCode": "TA",
+            "bookId": "b146"
+        },
+        {
+            "bookCode": "VSS",
+            "bookId": "b148"
+        },
+        {
+            "bookCode": "WM",
+            "bookId": "b152"
+        },
+        {
+            "bookCode": "WLF",
+            "bookId": "b1445"
+        },
+        {
+            "bookCode": "CTr",
+            "bookId": "b9"
+        },
+        {
+            "bookCode": "CC",
+            "bookId": "b17"
+        },
+        {
+            "bookCode": "FLB",
+            "bookId": "b131"
+        },
+        {
+            "bookCode": "FH",
+            "bookId": "b12210"
+        },
+        {
+            "bookCode": "AG",
+            "bookId": "b33"
+        },
+        {
+            "bookCode": "HB",
+            "bookId": "b12862"
+        },
+        {
+            "bookCode": "HP",
+            "bookId": "b38"
+        },
+        {
+            "bookCode": "JNN",
+            "bookId": "b14150"
+        },
+        {
+            "bookCode": "LHU",
+            "bookId": "b44"
+        },
+        {
+            "bookCode": "Mar",
+            "bookId": "b74"
+        },
+        {
+            "bookCode": "ML",
+            "bookId": "b79"
+        },
+        {
+            "bookCode": "OFC",
+            "bookId": "b80"
+        },
+        {
+            "bookCode": "OHC",
+            "bookId": "b81"
+        },
+        {
+            "bookCode": "RRe",
+            "bookId": "b14039"
+        },
+        {
+            "bookCode": "RC",
+            "bookId": "b89"
+        },
+        {
+            "bookCode": "SD",
+            "bookId": "b102"
+        },
+        {
+            "bookCode": "TMK",
+            "bookId": "b126"
+        },
+        {
+            "bookCode": "TDG",
+            "bookId": "b149"
+        },
+        {
+            "bookCode": "BLJ",
+            "bookId": "b151"
+        },
+        {
+            "bookCode": "UL",
+            "bookId": "b147"
+        },
+        {
+            "bookCode": "WGD",
+            "bookId": "b13940"
+        },
+        {
+            "bookCode": "YRP",
+            "bookId": "b153"
+        },
+        {
+            "bookCode": "LtsIdx",
+            "bookId": "b12881"
+        },
+        {
+            "bookCode": "MssIdx",
+            "bookId": "b12880"
+        },
+        {
+            "bookCode": "1EGWLM",
+            "bookId": "b12667"
+        },
+        {
+            "bookCode": "1LtMs",
+            "bookId": "b13961"
+        },
+        {
+            "bookCode": "2LtMs",
+            "bookId": "b14052"
+        },
+        {
+            "bookCode": "3LtMs",
+            "bookId": "b14053"
+        },
+        {
+            "bookCode": "4LtMs",
+            "bookId": "b14054"
+        },
+        {
+            "bookCode": "5LtMs",
+            "bookId": "b14055"
+        },
+        {
+            "bookCode": "6LtMs",
+            "bookId": "b14056"
+        },
+        {
+            "bookCode": "7LtMs",
+            "bookId": "b14057"
+        },
+        {
+            "bookCode": "8LtMs",
+            "bookId": "b14058"
+        },
+        {
+            "bookCode": "9LtMs",
+            "bookId": "b14059"
+        },
+        {
+            "bookCode": "10LtMs",
+            "bookId": "b14060"
+        },
+        {
+            "bookCode": "11LtMs",
+            "bookId": "b14061"
+        },
+        {
+            "bookCode": "12LtMs",
+            "bookId": "b14062"
+        },
+        {
+            "bookCode": "13LtMs",
+            "bookId": "b14063"
+        },
+        {
+            "bookCode": "14LtMs",
+            "bookId": "b14064"
+        },
+        {
+            "bookCode": "15LtMs",
+            "bookId": "b14065"
+        },
+        {
+            "bookCode": "16LtMs",
+            "bookId": "b14066"
+        },
+        {
+            "bookCode": "17LtMs",
+            "bookId": "b14067"
+        },
+        {
+            "bookCode": "18LtMs",
+            "bookId": "b14068"
+        },
+        {
+            "bookCode": "19LtMs",
+            "bookId": "b14069"
+        },
+        {
+            "bookCode": "20LtMs",
+            "bookId": "b14070"
+        },
+        {
+            "bookCode": "21LtMs",
+            "bookId": "b14071"
+        },
+        {
+            "bookCode": "22LtMs",
+            "bookId": "b14072"
+        },
+        {
+            "bookCode": "23LtMs",
+            "bookId": "b14073"
+        },
+        {
+            "bookCode": "24LtMs",
+            "bookId": "b14074"
+        },
+        {
+            "bookCode": "25LtMs",
+            "bookId": "b14075"
+        },
+        {
+            "bookCode": "1MR",
+            "bookId": "b61"
+        },
+        {
+            "bookCode": "2MR",
+            "bookId": "b73"
+        },
+        {
+            "bookCode": "3MR",
+            "bookId": "b69"
+        },
+        {
+            "bookCode": "4MR",
+            "bookId": "b57"
+        },
+        {
+            "bookCode": "5MR",
+            "bookId": "b56"
+        },
+        {
+            "bookCode": "6MR",
+            "bookId": "b64"
+        },
+        {
+            "bookCode": "7MR",
+            "bookId": "b62"
+        },
+        {
+            "bookCode": "8MR",
+            "bookId": "b52"
+        },
+        {
+            "bookCode": "9MR",
+            "bookId": "b59"
+        },
+        {
+            "bookCode": "10MR",
+            "bookId": "b66"
+        },
+        {
+            "bookCode": "11MR",
+            "bookId": "b54"
+        },
+        {
+            "bookCode": "12MR",
+            "bookId": "b70"
+        },
+        {
+            "bookCode": "13MR",
+            "bookId": "b67"
+        },
+        {
+            "bookCode": "14MR",
+            "bookId": "b58"
+        },
+        {
+            "bookCode": "15MR",
+            "bookId": "b55"
+        },
+        {
+            "bookCode": "16MR",
+            "bookId": "b65"
+        },
+        {
+            "bookCode": "17MR",
+            "bookId": "b63"
+        },
+        {
+            "bookCode": "18MR",
+            "bookId": "b53"
+        },
+        {
+            "bookCode": "19MR",
+            "bookId": "b60"
+        },
+        {
+            "bookCode": "20MR",
+            "bookId": "b71"
+        },
+        {
+            "bookCode": "21MR",
+            "bookId": "b72"
+        },
+        {
+            "bookCode": "MR311",
+            "bookId": "b136"
+        },
+        {
+            "bookCode": "MR728",
+            "bookId": "b47"
+        },
+        {
+            "bookCode": "MR760",
+            "bookId": "b48"
+        },
+        {
+            "bookCode": "MR852",
+            "bookId": "b50"
+        },
+        {
+            "bookCode": "MR926",
+            "bookId": "b51"
+        },
+        {
+            "bookCode": "MR1033",
+            "bookId": "b46"
+        },
+        {
+            "bookCode": "1SAT",
+            "bookId": "b427"
+        },
+        {
+            "bookCode": "2SAT",
+            "bookId": "b434"
+        },
+        {
+            "bookCode": "BCL",
+            "bookId": "b437"
+        },
+        {
+            "bookCode": "1888",
+            "bookId": "b428"
+        },
+        {
+            "bookCode": "KC",
+            "bookId": "b429"
+        },
+        {
+            "bookCode": "LLM",
+            "bookId": "b433"
+        },
+        {
+            "bookCode": "1NL",
+            "bookId": "b430"
+        },
+        {
+            "bookCode": "2NL",
+            "bookId": "b432"
+        },
+        {
+            "bookCode": "PC",
+            "bookId": "b515"
+        },
+        {
+            "bookCode": "PCO",
+            "bookId": "b435"
+        },
+        {
+            "bookCode": "SpM",
+            "bookId": "b516"
+        },
+        {
+            "bookCode": "SHM-apx",
+            "bookId": "b436"
+        },
+        {
+            "bookCode": "EA",
+            "bookId": "b12670"
+        },
+        {
+            "bookCode": "SpTA01a",
+            "bookId": "b401"
+        },
+        {
+            "bookCode": "SpTA01b",
+            "bookId": "b398"
+        },
+        {
+            "bookCode": "SpTA02a",
+            "bookId": "b400"
+        },
+        {
+            "bookCode": "SpTA02b",
+            "bookId": "b403"
+        },
+        {
+            "bookCode": "SpTA03",
+            "bookId": "b407"
+        },
+        {
+            "bookCode": "SpTA04",
+            "bookId": "b408"
+        },
+        {
+            "bookCode": "SpTA05",
+            "bookId": "b409"
+        },
+        {
+            "bookCode": "SpTA06",
+            "bookId": "b406"
+        },
+        {
+            "bookCode": "SpTA07",
+            "bookId": "b412"
+        },
+        {
+            "bookCode": "SpTA08",
+            "bookId": "b411"
+        },
+        {
+            "bookCode": "SpTA09",
+            "bookId": "b410"
+        },
+        {
+            "bookCode": "SpTA10",
+            "bookId": "b413"
+        },
+        {
+            "bookCode": "SpTA11",
+            "bookId": "b404"
+        },
+        {
+            "bookCode": "SpTA12",
+            "bookId": "b636"
+        },
+        {
+            "bookCode": "SpTB01",
+            "bookId": "b419"
+        },
+        {
+            "bookCode": "SpTB02",
+            "bookId": "b417"
+        },
+        {
+            "bookCode": "SpTB03a",
+            "bookId": "b416"
+        },
+        {
+            "bookCode": "SpTB03b",
+            "bookId": "b421"
+        },
+        {
+            "bookCode": "SpTB03c",
+            "bookId": "b420"
+        },
+        {
+            "bookCode": "SpTB04",
+            "bookId": "b246"
+        },
+        {
+            "bookCode": "SpTB05",
+            "bookId": "b374"
+        },
+        {
+            "bookCode": "SpTB06",
+            "bookId": "b352"
+        },
+        {
+            "bookCode": "SpTB07",
+            "bookId": "b249"
+        },
+        {
+            "bookCode": "SpTB08",
+            "bookId": "b422"
+        },
+        {
+            "bookCode": "SpTB09",
+            "bookId": "b371"
+        },
+        {
+            "bookCode": "SpTB10",
+            "bookId": "b307"
+        },
+        {
+            "bookCode": "SpTB11",
+            "bookId": "b345"
+        },
+        {
+            "bookCode": "SpTB12",
+            "bookId": "b377"
+        },
+        {
+            "bookCode": "SpTB12x",
+            "bookId": "b287"
+        },
+        {
+            "bookCode": "SpTB13",
+            "bookId": "b373"
+        },
+        {
+            "bookCode": "SpTB14",
+            "bookId": "b267"
+        },
+        {
+            "bookCode": "SpTB15",
+            "bookId": "b268"
+        },
+        {
+            "bookCode": "SpTB16",
+            "bookId": "b283"
+        },
+        {
+            "bookCode": "SpTB17a",
+            "bookId": "b299"
+        },
+        {
+            "bookCode": "SpTB17b",
+            "bookId": "b341"
+        },
+        {
+            "bookCode": "SpTB18",
+            "bookId": "b325"
+        },
+        {
+            "bookCode": "SpTB19",
+            "bookId": "b240"
+        },
+        {
+            "bookCode": "PH118",
+            "bookId": "b380"
+        },
+        {
+            "bookCode": "PH126",
+            "bookId": "b295"
+        },
+        {
+            "bookCode": "PH001",
+            "bookId": "b355"
+        },
+        {
+            "bookCode": "PH002",
+            "bookId": "b379"
+        },
+        {
+            "bookCode": "PH004",
+            "bookId": "b336"
+        },
+        {
+            "bookCode": "PH119",
+            "bookId": "b314"
+        },
+        {
+            "bookCode": "PH005",
+            "bookId": "b270"
+        },
+        {
+            "bookCode": "PH009",
+            "bookId": "b252"
+        },
+        {
+            "bookCode": "PH008",
+            "bookId": "b308"
+        },
+        {
+            "bookCode": "PH010",
+            "bookId": "b370"
+        },
+        {
+            "bookCode": "PH007",
+            "bookId": "b357"
+        },
+        {
+            "bookCode": "PH127",
+            "bookId": "b300"
+        },
+        {
+            "bookCode": "PH012",
+            "bookId": "b238"
+        },
+        {
+            "bookCode": "PH011",
+            "bookId": "b344"
+        },
+        {
+            "bookCode": "PH013",
+            "bookId": "b253"
+        },
+        {
+            "bookCode": "PH014",
+            "bookId": "b329"
+        },
+        {
+            "bookCode": "PH128",
+            "bookId": "b321"
+        },
+        {
+            "bookCode": "PH129",
+            "bookId": "b273"
+        },
+        {
+            "bookCode": "PH015",
+            "bookId": "b284"
+        },
+        {
+            "bookCode": "PH019",
+            "bookId": "b378"
+        },
+        {
+            "bookCode": "PH020",
+            "bookId": "b276"
+        },
+        {
+            "bookCode": "PH130",
+            "bookId": "b382"
+        },
+        {
+            "bookCode": "PH022",
+            "bookId": "b239"
+        },
+        {
+            "bookCode": "PH131",
+            "bookId": "b250"
+        },
+        {
+            "bookCode": "PH167",
+            "bookId": "b264"
+        },
+        {
+            "bookCode": "PH132",
+            "bookId": "b335"
+        },
+        {
+            "bookCode": "PH133",
+            "bookId": "b2697"
+        },
+        {
+            "bookCode": "PH026",
+            "bookId": "b248"
+        },
+        {
+            "bookCode": "PH134",
+            "bookId": "b315"
+        },
+        {
+            "bookCode": "PH028",
+            "bookId": "b363"
+        },
+        {
+            "bookCode": "PH029",
+            "bookId": "b266"
+        },
+        {
+            "bookCode": "PH030",
+            "bookId": "b243"
+        },
+        {
+            "bookCode": "PH165",
+            "bookId": "b297"
+        },
+        {
+            "bookCode": "PH031",
+            "bookId": "b251"
+        },
+        {
+            "bookCode": "PH135",
+            "bookId": "b360"
+        },
+        {
+            "bookCode": "PH136",
+            "bookId": "b317"
+        },
+        {
+            "bookCode": "PH036",
+            "bookId": "b289"
+        },
+        {
+            "bookCode": "PH137",
+            "bookId": "b277"
+        },
+        {
+            "bookCode": "PH066",
+            "bookId": "b328"
+        },
+        {
+            "bookCode": "PH138",
+            "bookId": "b358"
+        },
+        {
+            "bookCode": "PH037",
+            "bookId": "b265"
+        },
+        {
+            "bookCode": "PH140",
+            "bookId": "b244"
+        },
+        {
+            "bookCode": "PH054",
+            "bookId": "b361"
+        },
+        {
+            "bookCode": "PH038",
+            "bookId": "b320"
+        },
+        {
+            "bookCode": "PH039",
+            "bookId": "b305"
+        },
+        {
+            "bookCode": "PH168",
+            "bookId": "b366"
+        },
+        {
+            "bookCode": "PH040",
+            "bookId": "b285"
+        },
+        {
+            "bookCode": "PH043",
+            "bookId": "b367"
+        },
+        {
+            "bookCode": "PH045",
+            "bookId": "b247"
+        },
+        {
+            "bookCode": "PH141",
+            "bookId": "b322"
+        },
+        {
+            "bookCode": "PH048",
+            "bookId": "b339"
+        },
+        {
+            "bookCode": "PH049",
+            "bookId": "b309"
+        },
+        {
+            "bookCode": "PH050",
+            "bookId": "b271"
+        },
+        {
+            "bookCode": "PH142",
+            "bookId": "b292"
+        },
+        {
+            "bookCode": "PH143",
+            "bookId": "b342"
+        },
+        {
+            "bookCode": "PH055",
+            "bookId": "b241"
+        },
+        {
+            "bookCode": "PH058",
+            "bookId": "b274"
+        },
+        {
+            "bookCode": "PH144",
+            "bookId": "b343"
+        },
+        {
+            "bookCode": "PH061",
+            "bookId": "b291"
+        },
+        {
+            "bookCode": "PH145",
+            "bookId": "b304"
+        },
+        {
+            "bookCode": "1Red",
+            "bookId": "b326"
+        },
+        {
+            "bookCode": "2Red",
+            "bookId": "b334"
+        },
+        {
+            "bookCode": "3Red",
+            "bookId": "b333"
+        },
+        {
+            "bookCode": "4Red",
+            "bookId": "b313"
+        },
+        {
+            "bookCode": "5Red",
+            "bookId": "b351"
+        },
+        {
+            "bookCode": "6Red",
+            "bookId": "b369"
+        },
+        {
+            "bookCode": "7Red",
+            "bookId": "b350"
+        },
+        {
+            "bookCode": "8Red",
+            "bookId": "b278"
+        },
+        {
+            "bookCode": "PH139",
+            "bookId": "b279"
+        },
+        {
+            "bookCode": "PH067",
+            "bookId": "b290"
+        },
+        {
+            "bookCode": "PH146",
+            "bookId": "b242"
+        },
+        {
+            "bookCode": "PH068",
+            "bookId": "b383"
+        },
+        {
+            "bookCode": "PH147",
+            "bookId": "b281"
+        },
+        {
+            "bookCode": "PH069",
+            "bookId": "b302"
+        },
+        {
+            "bookCode": "PH148",
+            "bookId": "b263"
+        },
+        {
+            "bookCode": "PH070",
+            "bookId": "b359"
+        },
+        {
+            "bookCode": "PH149",
+            "bookId": "b424"
+        },
+        {
+            "bookCode": "PH150",
+            "bookId": "b637"
+        },
+        {
+            "bookCode": "PH151",
+            "bookId": "b425"
+        },
+        {
+            "bookCode": "PH077",
+            "bookId": "b14747"
+        },
+        {
+            "bookCode": "PH078",
+            "bookId": "b426"
+        },
+        {
+            "bookCode": "PH079",
+            "bookId": "b275"
+        },
+        {
+            "bookCode": "PH080",
+            "bookId": "b327"
+        },
+        {
+            "bookCode": "PH166",
+            "bookId": "b256"
+        },
+        {
+            "bookCode": "PH152",
+            "bookId": "b356"
+        },
+        {
+            "bookCode": "PH081",
+            "bookId": "b272"
+        },
+        {
+            "bookCode": "PH082",
+            "bookId": "b257"
+        },
+        {
+            "bookCode": "PH084",
+            "bookId": "b381"
+        },
+        {
+            "bookCode": "PH085",
+            "bookId": "b354"
+        },
+        {
+            "bookCode": "PH153",
+            "bookId": "b306"
+        },
+        {
+            "bookCode": "PH083",
+            "bookId": "b338"
+        },
+        {
+            "bookCode": "PH154",
+            "bookId": "b245"
+        },
+        {
+            "bookCode": "PH087",
+            "bookId": "b293"
+        },
+        {
+            "bookCode": "PH086",
+            "bookId": "b298"
+        },
+        {
+            "bookCode": "PH155",
+            "bookId": "b237"
+        },
+        {
+            "bookCode": "PH156",
+            "bookId": "b288"
+        },
+        {
+            "bookCode": "PH088",
+            "bookId": "b353"
+        },
+        {
+            "bookCode": "PH157",
+            "bookId": "b330"
+        },
+        {
+            "bookCode": "PH089",
+            "bookId": "b365"
+        },
+        {
+            "bookCode": "PH090",
+            "bookId": "b296"
+        },
+        {
+            "bookCode": "PH092",
+            "bookId": "b294"
+        },
+        {
+            "bookCode": "PH169",
+            "bookId": "b331"
+        },
+        {
+            "bookCode": "PH093",
+            "bookId": "b260"
+        },
+        {
+            "bookCode": "PH094",
+            "bookId": "b259"
+        },
+        {
+            "bookCode": "PH095",
+            "bookId": "b286"
+        },
+        {
+            "bookCode": "PH102",
+            "bookId": "b318"
+        },
+        {
+            "bookCode": "PH096",
+            "bookId": "b303"
+        },
+        {
+            "bookCode": "PH158",
+            "bookId": "b375"
+        },
+        {
+            "bookCode": "PH117",
+            "bookId": "b282"
+        },
+        {
+            "bookCode": "PH097",
+            "bookId": "b269"
+        },
+        {
+            "bookCode": "PH098",
+            "bookId": "b316"
+        },
+        {
+            "bookCode": "PH099",
+            "bookId": "b312"
+        },
+        {
+            "bookCode": "PH100",
+            "bookId": "b323"
+        },
+        {
+            "bookCode": "PH104",
+            "bookId": "b301"
+        },
+        {
+            "bookCode": "PH159",
+            "bookId": "b255"
+        },
+        {
+            "bookCode": "PH123",
+            "bookId": "b337"
+        },
+        {
+            "bookCode": "PH101",
+            "bookId": "b258"
+        },
+        {
+            "bookCode": "PH105",
+            "bookId": "b324"
+        },
+        {
+            "bookCode": "PH120",
+            "bookId": "b332"
+        },
+        {
+            "bookCode": "PH016",
+            "bookId": "b319"
+        },
+        {
+            "bookCode": "PH160",
+            "bookId": "b262"
+        },
+        {
+            "bookCode": "PH161",
+            "bookId": "b372"
+        },
+        {
+            "bookCode": "PH122",
+            "bookId": "b340"
+        },
+        {
+            "bookCode": "PH162",
+            "bookId": "b364"
+        },
+        {
+            "bookCode": "PH163",
+            "bookId": "b280"
+        },
+        {
+            "bookCode": "PH107",
+            "bookId": "b348"
+        },
+        {
+            "bookCode": "PH109",
+            "bookId": "b310"
+        },
+        {
+            "bookCode": "PH124",
+            "bookId": "b254"
+        },
+        {
+            "bookCode": "PH113",
+            "bookId": "b311"
+        },
+        {
+            "bookCode": "PH164",
+            "bookId": "b346"
+        },
+        {
+            "bookCode": "PH114",
+            "bookId": "b376"
+        },
+        {
+            "bookCode": "PH116",
+            "bookId": "b261"
+        },
+        {
+            "bookCode": "T01",
+            "bookId": "b12674"
+        },
+        {
+            "bookCode": "T02",
+            "bookId": "b12675"
+        },
+        {
+            "bookCode": "T03",
+            "bookId": "b12676"
+        },
+        {
+            "bookCode": "T04",
+            "bookId": "b12677"
+        },
+        {
+            "bookCode": "T05",
+            "bookId": "b12684"
+        },
+        {
+            "bookCode": "T06",
+            "bookId": "b12792"
+        },
+        {
+            "bookCode": "T07",
+            "bookId": "b12790"
+        },
+        {
+            "bookCode": "T08",
+            "bookId": "b12802"
+        },
+        {
+            "bookCode": "T09",
+            "bookId": "b12803"
+        },
+        {
+            "bookCode": "T10",
+            "bookId": "b12804"
+        },
+        {
+            "bookCode": "T11",
+            "bookId": "b12805"
+        },
+        {
+            "bookCode": "T12",
+            "bookId": "b12806"
+        },
+        {
+            "bookCode": "T13",
+            "bookId": "b12807"
+        },
+        {
+            "bookCode": "T14",
+            "bookId": "b12808"
+        },
+        {
+            "bookCode": "T15",
+            "bookId": "b12809"
+        },
+        {
+            "bookCode": "T16",
+            "bookId": "b12810"
+        },
+        {
+            "bookCode": "T17",
+            "bookId": "b12886"
+        },
+        {
+            "bookCode": "T18",
+            "bookId": "b13786"
+        },
+        {
+            "bookCode": "T19",
+            "bookId": "b12789"
+        },
+        {
+            "bookCode": "T20",
+            "bookId": "b12791"
+        },
+        {
+            "bookCode": "T21",
+            "bookId": "b12793"
+        },
+        {
+            "bookCode": "T21a",
+            "bookId": "b12798"
+        },
+        {
+            "bookCode": "T22",
+            "bookId": "b12799"
+        },
+        {
+            "bookCode": "T23",
+            "bookId": "b12800"
+        },
+        {
+            "bookCode": "T24",
+            "bookId": "b12797"
+        },
+        {
+            "bookCode": "T25",
+            "bookId": "b12795"
+        },
+        {
+            "bookCode": "T25a",
+            "bookId": "b12796"
+        },
+        {
+            "bookCode": "T26",
+            "bookId": "b12801"
+        },
+        {
+            "bookCode": "T27",
+            "bookId": "b12811"
+        },
+        {
+            "bookCode": "T28",
+            "bookId": "b12813"
+        },
+        {
+            "bookCode": "T29",
+            "bookId": "b12814"
+        },
+        {
+            "bookCode": "T30",
+            "bookId": "b12815"
+        },
+        {
+            "bookCode": "T31",
+            "bookId": "b12858"
+        },
+        {
+            "bookCode": "T32",
+            "bookId": "b12856"
+        },
+        {
+            "bookCode": "T33",
+            "bookId": "b12859"
+        },
+        {
+            "bookCode": "Advance",
+            "bookId": "b505"
+        },
+        {
+            "bookCode": "Advocate",
+            "bookId": "b506"
+        },
+        {
+            "bookCode": "Canvasser",
+            "bookId": "b456"
+        },
+        {
+            "bookCode": "AUGleaner",
+            "bookId": "b513"
+        },
+        {
+            "bookCode": "AUCR",
+            "bookId": "b498"
+        },
+        {
+            "bookCode": "BEcho",
+            "bookId": "b493"
+        },
+        {
+            "bookCode": "BEcho",
+            "bookId": "b459"
+        },
+        {
+            "bookCode": "BEcho",
+            "bookId": "b466"
+        },
+        {
+            "bookCode": "BTS",
+            "bookId": "b462"
+        },
+        {
+            "bookCode": "CUM",
+            "bookId": "b491"
+        },
+        {
+            "bookCode": "CentralAdvance",
+            "bookId": "b478"
+        },
+        {
+            "bookCode": "Outlook",
+            "bookId": "b480"
+        },
+        {
+            "bookCode": "ChristianEducation",
+            "bookId": "b455"
+        },
+        {
+            "bookCode": "ChristianEducator",
+            "bookId": "b464"
+        },
+        {
+            "bookCode": "Bulletin",
+            "bookId": "b472"
+        },
+        {
+            "bookCode": "Gazette",
+            "bookId": "b482"
+        },
+        {
+            "bookCode": "CollegeRecord",
+            "bookId": "b473"
+        },
+        {
+            "bookCode": "Visitor",
+            "bookId": "b510"
+        },
+        {
+            "bookCode": "DS",
+            "bookId": "b501"
+        },
+        {
+            "bookCode": "Banner",
+            "bookId": "b474"
+        },
+        {
+            "bookCode": "Echoes",
+            "bookId": "b477"
+        },
+        {
+            "bookCode": "EducationalMessenger",
+            "bookId": "b449"
+        },
+        {
+            "bookCode": "Tidings",
+            "bookId": "b463"
+        },
+        {
+            "bookCode": "FPR",
+            "bookId": "b461"
+        },
+        {
+            "bookCode": "GCB",
+            "bookId": "b448"
+        },
+        {
+            "bookCode": "GCDB",
+            "bookId": "b481"
+        },
+        {
+            "bookCode": "GS",
+            "bookId": "b454"
+        },
+        {
+            "bookCode": "GH",
+            "bookId": "b503"
+        },
+        {
+            "bookCode": "GH",
+            "bookId": "b442"
+        },
+        {
+            "bookCode": "GH",
+            "bookId": "b475"
+        },
+        {
+            "bookCode": "GMM",
+            "bookId": "b486"
+        },
+        {
+            "bookCode": "GosHealth",
+            "bookId": "b476"
+        },
+        {
+            "bookCode": "HR",
+            "bookId": "b504"
+        },
+        {
+            "bookCode": "HR",
+            "bookId": "b440"
+        },
+        {
+            "bookCode": "HM",
+            "bookId": "b512"
+        },
+        {
+            "bookCode": "HM",
+            "bookId": "b458"
+        },
+        {
+            "bookCode": "Caterer",
+            "bookId": "b457"
+        },
+        {
+            "bookCode": "IR",
+            "bookId": "b495"
+        },
+        {
+            "bookCode": "LUH",
+            "bookId": "b500"
+        },
+        {
+            "bookCode": "LifeBoat",
+            "bookId": "b14666"
+        },
+        {
+            "bookCode": "MedEv",
+            "bookId": "b441"
+        },
+        {
+            "bookCode": "MMis",
+            "bookId": "b484"
+        },
+        {
+            "bookCode": "Messenger",
+            "bookId": "b445"
+        },
+        {
+            "bookCode": "MinnWorker",
+            "bookId": "b460"
+        },
+        {
+            "bookCode": "MissWorker",
+            "bookId": "b497"
+        },
+        {
+            "bookCode": "MMR",
+            "bookId": "b447"
+        },
+        {
+            "bookCode": "NebRep",
+            "bookId": "b443"
+        },
+        {
+            "bookCode": "Needs",
+            "bookId": "b451"
+        },
+        {
+            "bookCode": "NYI",
+            "bookId": "b470"
+        },
+        {
+            "bookCode": "NPUGleaner",
+            "bookId": "b511"
+        },
+        {
+            "bookCode": "NIRec",
+            "bookId": "b467"
+        },
+        {
+            "bookCode": "NUReaper",
+            "bookId": "b471"
+        },
+        {
+            "bookCode": "OW",
+            "bookId": "b487"
+        },
+        {
+            "bookCode": "AustYouth",
+            "bookId": "b494"
+        },
+        {
+            "bookCode": "PHJ",
+            "bookId": "b439"
+        },
+        {
+            "bookCode": "PHJ",
+            "bookId": "b499"
+        },
+        {
+            "bookCode": "PUR",
+            "bookId": "b82"
+        },
+        {
+            "bookCode": "PrT",
+            "bookId": "b452"
+        },
+        {
+            "bookCode": "RP",
+            "bookId": "b483"
+        },
+        {
+            "bookCode": "RP",
+            "bookId": "b446"
+        },
+        {
+            "bookCode": "PT",
+            "bookId": "b517"
+        },
+        {
+            "bookCode": "RH",
+            "bookId": "b821"
+        },
+        {
+            "bookCode": "SSW",
+            "bookId": "b1625"
+        },
+        {
+            "bookCode": "San",
+            "bookId": "b508"
+        },
+        {
+            "bookCode": "ST",
+            "bookId": "b820"
+        },
+        {
+            "bookCode": "SFEcho",
+            "bookId": "b490"
+        },
+        {
+            "bookCode": "SW",
+            "bookId": "b492"
+        },
+        {
+            "bookCode": "SW",
+            "bookId": "b489"
+        },
+        {
+            "bookCode": "SW",
+            "bookId": "b496"
+        },
+        {
+            "bookCode": "Broadside1",
+            "bookId": "b465"
+        },
+        {
+            "bookCode": "Broadside2",
+            "bookId": "b509"
+        },
+        {
+            "bookCode": "Broadside3",
+            "bookId": "b453"
+        },
+        {
+            "bookCode": "TrueMiss",
+            "bookId": "b444"
+        },
+        {
+            "bookCode": "WIMessenger",
+            "bookId": "b468"
+        },
+        {
+            "bookCode": "WMHerald",
+            "bookId": "b479"
+        },
+        {
+            "bookCode": "WR",
+            "bookId": "b502"
+        },
+        {
+            "bookCode": "WB",
+            "bookId": "b485"
+        },
+        {
+            "bookCode": "YI",
+            "bookId": "b469"
+        },
+        {
+            "bookCode": "EGWE",
+            "bookId": "b669"
+        },
+        {
+            "bookCode": "1BIO",
+            "bookId": "b668"
+        },
+        {
+            "bookCode": "2BIO",
+            "bookId": "b672"
+        },
+        {
+            "bookCode": "3BIO",
+            "bookId": "b671"
+        },
+        {
+            "bookCode": "4BIO",
+            "bookId": "b670"
+        },
+        {
+            "bookCode": "5BIO",
+            "bookId": "b675"
+        },
+        {
+            "bookCode": "6BIO",
+            "bookId": "b667"
+        },
+        {
+            "bookCode": "WV",
+            "bookId": "b665"
+        },
+        {
+            "bookCode": "LSMS",
+            "bookId": "b666"
+        },
+        {
+            "bookCode": "1BC",
+            "bookId": "b90"
+        },
+        {
+            "bookCode": "2BC",
+            "bookId": "b91"
+        },
+        {
+            "bookCode": "3BC",
+            "bookId": "b92"
+        },
+        {
+            "bookCode": "4BC",
+            "bookId": "b93"
+        },
+        {
+            "bookCode": "5BC",
+            "bookId": "b94"
+        },
+        {
+            "bookCode": "6BC",
+            "bookId": "b95"
+        },
+        {
+            "bookCode": "7BC",
+            "bookId": "b96"
+        },
+        {
+            "bookCode": "7ABC",
+            "bookId": "b97"
+        }
+    ]
+}
